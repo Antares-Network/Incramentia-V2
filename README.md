@@ -1,27 +1,26 @@
 [![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/template-repo?style=social)
-![](https://img.shields.io/github/repo-size/Antares-Network/template-repo?color=Green&style=flat-square)
-![](https://img.shields.io/tokei/lines/github/Antares-Network/template-repo?style=flat-square)  
-![](https://cdn.discordapp.com/icons/649703068799336454/1a7ef8f706cd60d62547d2c7dc08d6f0.png) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Antares-Network/Incramentia-V2?style=social)
+![](https://img.shields.io/github/repo-size/Antares-Network/Incramentia-V2?color=Green&style=flat-square)
+![](https://img.shields.io/tokei/lines/github/Antares-Network/Incramentia-V2?style=flat-square)  
 
-# Template Repo 
-- Description: This is a template repository for all new repos for the Antares Network
+# Incramentia Version 2
+- Description: This repository will hold the new and improved and completely rewritten Incramentia code. Written in React, Angular, or Vue; with a NodeJs and MongoDB backend, and an accompanying Electron app available for all platforms, this will be a much more advanced and fully featured clicker game.
 
 ## Rough outline:
-- Outline here
+- Outline here (To be Written)
 
 ## How to run yourself:
-- Explain that here
+- Explain that here (To be Written)
 
 
 ## End goal of the project:
-- Describe what the goal of the project is
+- Describe what the goal of the project is (To be Written)
 
 
 
 ## Credits:
-- Person A
-- Person B
+- [Nate Goldsborough](https://github.com/nathen418)
+- [Seth Traman](https://github.com/StickyFingies)
 
 ## Join our discord server:
 https://dsc.gg/antaresnetwork
